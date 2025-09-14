@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 17
+names: ['back_bumper', 'back_glass', 'back_left_door', 'back_left_light', 'back_right_door', 'back_right_light', 'front_bumper', 'front_glass', 'front_left_door', 'front_left_light', 'front_right_door', 'front_right_light', 'hood', 'left_mirror', 'right_mirror', 'tailgate', 'wheel']
+
+roboflow:
+  workspace: unir
+  project: part-of-cars
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/unir/part-of-cars/dataset/9

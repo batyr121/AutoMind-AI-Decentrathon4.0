@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['car', 'dunt', 'rust', 'scracth']
+
+roboflow:
+  workspace: seva-at1qy
+  project: rust-and-scrach
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/seva-at1qy/rust-and-scrach/dataset/1

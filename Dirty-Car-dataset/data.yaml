@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['clean', 'dirty']
+
+roboflow:
+  workspace: fall-on7ds
+  project: dirt-car-450x3
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fall-on7ds/dirt-car-450x3/dataset/4

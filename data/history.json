@@ -1,0 +1,152 @@
+[
+  {
+    "id": "2efa8b1b-cf32-41dc-bcee-5c9e2b7d6065",
+    "timestamp": "2025-09-14T11:02:48.627975",
+    "result": {
+      "predictions": {
+        "car": 0.02065913937985897,
+        "dunt": 0.032787710428237915,
+        "rust": 0.9448779821395874,
+        "scratch": 0.0016752099618315697
+      },
+      "has_damage": true,
+      "main_class": "rust",
+      "main_class_ru": "Ржавчина",
+      "confidence": 0.9448779821395874,
+      "image_url": "/static/uploads/20250914_110248_c537c1dd.jpg",
+      "thumb_url": "/static/uploads/20250914_110248_c537c1dd_thumb.jpg",
+      "timestamp": "2025-09-14T11:02:48.627975",
+      "message": "⚠️ Обнаружены повреждения! Рекомендуем провести осмотр.",
+      "damage_types": [
+        {
+          "type": "rust",
+          "type_ru": "Ржавчина",
+          "confidence": 0.9448779821395874
+        }
+      ]
+    },
+    "filename": "20250914_110248_c537c1dd.jpg"
+  },
+  {
+    "id": "968e4f8f-6643-41c5-934f-26b1ec44dc68",
+    "timestamp": "2025-09-14T11:06:13.467092",
+    "result": {
+      "predictions": {
+        "car": 0.8374342918395996,
+        "dunt": 0.16143161058425903,
+        "rust": 0.001130379387177527,
+        "scratch": 3.736872486115317e-06
+      },
+      "has_damage": false,
+      "main_class": "car",
+      "main_class_ru": "Автомобиль",
+      "confidence": 0.8374342918395996,
+      "image_url": "/static/uploads/20250914_110613_853ae742.jpg",
+      "thumb_url": "/static/uploads/20250914_110613_853ae742_thumb.jpg",
+      "timestamp": "2025-09-14T11:06:13.467092",
+      "message": "✅ Повреждений не обнаружено",
+      "damage_types": []
+    },
+    "filename": "20250914_110613_853ae742.jpg"
+  },
+  {
+    "id": "ccd8afee-c6f3-4648-a436-5f61efa08b3f",
+    "timestamp": "2025-09-14T11:06:23.459323",
+    "result": {
+      "predictions": {
+        "car": 2.1040257706772536e-05,
+        "dunt": 0.9999786615371704,
+        "rust": 2.7406204594626615e-07,
+        "scratch": 1.2294925078037977e-08
+      },
+      "has_damage": true,
+      "main_class": "dunt",
+      "main_class_ru": "Вмятина",
+      "confidence": 0.9999786615371704,
+      "image_url": "/static/uploads/20250914_110623_cb74a5e7.jpg",
+      "thumb_url": "/static/uploads/20250914_110623_cb74a5e7_thumb.jpg",
+      "timestamp": "2025-09-14T11:06:23.459323",
+      "message": "⚠️ Обнаружены повреждения! Рекомендуем провести осмотр.",
+      "damage_types": [
+        {
+          "type": "dunt",
+          "type_ru": "Вмятина",
+          "confidence": 0.9999786615371704
+        }
+      ]
+    },
+    "filename": "20250914_110623_cb74a5e7.jpg"
+  },
+  {
+    "id": "6d882861-9460-4ff5-94d1-26e952450fbf",
+    "timestamp": "2025-09-14T11:06:35.540273",
+    "result": {
+      "predictions": {
+        "car": 0.0306627806276083,
+        "dunt": 0.9506694078445435,
+        "rust": 0.015042577870190144,
+        "scratch": 0.003625238547101617
+      },
+      "has_damage": true,
+      "main_class": "dunt",
+      "main_class_ru": "Вмятина",
+      "confidence": 0.9506694078445435,
+      "image_url": "/static/uploads/20250914_110635_7a51f988.jpg",
+      "thumb_url": "/static/uploads/20250914_110635_7a51f988_thumb.jpg",
+      "timestamp": "2025-09-14T11:06:35.540273",
+      "message": "⚠️ Обнаружены повреждения! Рекомендуем провести осмотр.",
+      "damage_types": [
+        {
+          "type": "dunt",
+          "type_ru": "Вмятина",
+          "confidence": 0.9506694078445435
+        }
+      ]
+    },
+    "filename": "20250914_110635_7a51f988.jpg"
+  },
+  {
+    "id": "1f8408ec-6ae0-4107-bdd8-9dc668d566ca",
+    "timestamp": "2025-09-14T11:06:46.066821",
+    "result": {
+      "predictions": {
+        "car": 0.9485799074172974,
+        "dunt": 0.03572594001889229,
+        "rust": 0.014108763076364994,
+        "scratch": 0.0015853969380259514
+      },
+      "has_damage": false,
+      "main_class": "car",
+      "main_class_ru": "Автомобиль",
+      "confidence": 0.9485799074172974,
+      "image_url": "/static/uploads/20250914_110646_67ed8806.jpg",
+      "thumb_url": "/static/uploads/20250914_110646_67ed8806_thumb.jpg",
+      "timestamp": "2025-09-14T11:06:46.066821",
+      "message": "✅ Повреждений не обнаружено",
+      "damage_types": []
+    },
+    "filename": "20250914_110646_67ed8806.jpg"
+  },
+  {
+    "id": "34e3b489-5d07-491f-9f46-464b3ebecf22",
+    "timestamp": "2025-09-14T11:06:51.651831",
+    "result": {
+      "predictions": {
+        "car": 0.8374342918395996,
+        "dunt": 0.16143161058425903,
+        "rust": 0.001130379387177527,
+        "scratch": 3.736872486115317e-06
+      },
+      "has_damage": false,
+      "main_class": "car",
+      "main_class_ru": "Автомобиль",
+      "confidence": 0.8374342918395996,
+      "image_url": "/static/uploads/20250914_110651_cd9b196e.jpg",
+      "thumb_url": "/static/uploads/20250914_110651_cd9b196e_thumb.jpg",
+      "timestamp": "2025-09-14T11:06:51.651831",
+      "message": "✅ Повреждений не обнаружено",
+      "damage_types": []
+    },
+    "filename": "20250914_110651_cd9b196e.jpg"
+  }
+]
